@@ -83,6 +83,20 @@ DELETE /api/v1/tasks/:id
 
 ---
 
+## Screenshots
+
+<img width="1313" height="359" alt="image" src="https://github.com/user-attachments/assets/2ef3e7c5-7574-45e9-9f67-8a0b354fdfff" />
+
+<img width="1155" height="299" alt="image" src="https://github.com/user-attachments/assets/eb69bdac-5a76-4bb1-8eb2-ec69e2691838" />
+
+<img width="1195" height="323" alt="image" src="https://github.com/user-attachments/assets/b66c1133-e080-499b-abc4-3dabf481c0bc" />
+
+<img width="1315" height="406" alt="image" src="https://github.com/user-attachments/assets/134c32ed-4b81-4929-9409-b095a2306a74" />
+
+<img width="1307" height="654" alt="image" src="https://github.com/user-attachments/assets/25e99363-dd0a-43ad-abfc-c5842e60790c" />
+
+
+
 ## 👨‍💻 Author
 
 Naveenkumar
