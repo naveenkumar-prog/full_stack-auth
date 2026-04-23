@@ -95,9 +95,9 @@ DELETE /api/v1/tasks/:id
 
 <img width="1358" height="724" alt="image" src="https://github.com/user-attachments/assets/57a6e82e-408d-427f-ad01-6dbab940b134" />
 
-
 <img width="1307" height="654" alt="image" src="https://github.com/user-attachments/assets/25e99363-dd0a-43ad-abfc-c5842e60790c" />
 
+<img width="1349" height="682" alt="image" src="https://github.com/user-attachments/assets/8684db36-09da-4d73-a06b-91cfdb8e9acf" />
 
 
 ## 👨‍💻 Author
